@@ -1,6 +1,3 @@
-# HtmlCss
-Sintaxe dos elementos Html, estilizações e propriedades Css
-
 # Html5 Css3
 Estudo sobre as tecnologias base para criação de páginas na web.
 
