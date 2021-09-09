@@ -1,0 +1,40 @@
+<!--
+Tabelas são utilizadas para representar dados em formato tabular. Sua estrutura e comportamento é definida pelo
+elemento <table>, o elemento <tr> define uma linha da tabela e o elemento <td> filho de <tr> define uma célula da
+tabela, dentro desse elemento é declarado o valor correspondente a célula.Existem também elementos opcionais utilizados
+para estruturar mais claramente cada parte da tabela. O elemento <caption> informa o título da tabela, o elemento <th> 
+informa o título de cada coluna da tabela, o elemento <thead>, <tbody> e <tfoot> são usados para dividir a tabela em
+cabeçalho, corpo e rodapé respectivamente. Por meio dos atributos colspan e rowspan é possível definir se a célula ocupará 
+mais de uma coluna ou linha.
+-->
+
+<!DOCTYPE html> 
+<html>
+    <head> 
+        <title></title>
+        <meta charset="utf-8">
+    </head> 
+    <body>
+        <table>
+            <caption></caption>
+            <thead>
+                <tr>
+                    <th>Célula 1 linha 1</th>
+                    <th>Célula 1 linha 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Célula 1 linha 2</td>
+                    <td>Célula 2 linha 2</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Célula 1 linha 3</td>
+                    <td>Célula 2 linha 3</td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>
