@@ -14,4 +14,5 @@ O Html foi crado por Tim Berners-lee em 1993 como uma das tecnologias que formam
 ## Introdução ao Css3
 
 O Css é um conjunto de folhas de estilização em cascata, que são utilizadas para informar ao navegador como apresentar um elemento (estilo, espaçamento, posicionamento) em uma página html. 
-O Css define estilização para elementos por meio de uma série de regras que determinam que elementos devem possuir um estilo associado, sendo dentro de cada regra definidos propriedades e valores. A aplicação de estilização css é indicada por meio de seletores que definem quais elementos devem receber determinada regra de estilização, após a indicação do seletor dentro de chaves são estabelecidas as propriedades com valores que o elemento receberá sendo cada propriedade separada por ponto e vírgula da seguinte.
+O Css define estilização para elementos por meio de uma série de regras que determinam que elementos devem possuir um estilo associado, sendo dentro de cada regra definidos propriedades e valores. 
+A aplicação de estilização css é indicada por meio de seletores que definem quais elementos devem receber determinada regra de estilização, após a indicação do seletor dentro de chaves são estabelecidas as propriedades com valores que o elemento receberá sendo cada propriedade separada por ponto e vírgula da seguinte.
