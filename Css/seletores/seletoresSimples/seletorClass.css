@@ -1,0 +1,12 @@
+/*
+Seleciona todos os elementos html que tiverem no atributo class o valor específico. 
+Class portanto podem definir estilos para vários elementos, assim como um elemento pode ter mais de um valor de atributo class.
+*/
+
+.corTexto{
+    color: cyan;
+}
+
+.borda{
+    border: darkgreen solid 10px;
+}
