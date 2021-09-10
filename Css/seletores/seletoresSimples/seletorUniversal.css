@@ -1,0 +1,9 @@
+/*
+É o seletor utilizado para aplicar estilização em todos os elementos da página html.
+*/
+
+*{
+    color: darkred;
+    border: 10px green solid;
+    border-radius: 50px;
+}
