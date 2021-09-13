@@ -1,0 +1,12 @@
+/*
+É usado para criar regras mais específicas de seleção aplicando o estilo em elementos específicos com um id específico.
+*/
+
+h1#principal{
+    background-color: tomato;
+    color: wheat;
+}
+
+h1{
+    border: 5px solid black;
+}
