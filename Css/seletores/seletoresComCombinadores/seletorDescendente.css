@@ -1,0 +1,11 @@
+/*
+É um combinador de seletor que especifica a seleção de todos os elementos que forem descendentes de um elemento específico.
+*/
+
+div h1{
+    color: red;
+}
+
+div div{
+    background-color: seagreen;
+}
