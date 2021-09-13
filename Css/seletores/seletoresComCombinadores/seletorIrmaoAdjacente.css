@@ -1,0 +1,7 @@
+/*
+É um combinador de seletor que especifica a seleção de um elemento que está diretamente após outro elemento irmão (no mesmo nível hierárquico).
+*/
+
+h1 + h1{
+    background-color: yellow;
+}
