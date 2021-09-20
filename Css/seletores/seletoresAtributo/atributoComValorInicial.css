@@ -1,0 +1,8 @@
+/*
+É utilizado para atribuir seleção a elementos html que tenham um atributo específico com valor
+começando com uma palavra específica sendo a palavra inteira.
+*/
+
+h1[id|="segundo"]{
+    background-color: chartreuse;
+}
