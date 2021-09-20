@@ -1,0 +1,7 @@
+/*
+É utilizado para atribuir seleção a elementos html que tenham um atributo específico.
+*/
+
+h1[id]{
+    color: blue;
+}
