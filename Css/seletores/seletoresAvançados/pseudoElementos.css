@@ -1,0 +1,44 @@
+/*
+É utilizado para estilizar partes específicas de um elemento.
+Pseudo elementos podem ser combinados com outros seletores como de class.
+*/
+
+/*
+PRIMEIRA LINHA: É utilizado para atribuir estilização especial a primeira linha de um texto.
+*/
+
+p::first-line{
+    color: red;
+}
+
+/*
+PRIMEIRA LETRA: É utilizado para atribuir estilização especial a primeira letra de um texto.
+*/
+
+h1::first-letter{
+    color: blue;
+}
+
+/*
+BEFORE: É utilizado para inserir algum conteúdo antes do conteúdo de um elemento.
+*/
+
+h2::before{
+    content: url(https://e7.pngegg.com/pngimages/32/676/png-clipart-rubik-s-cube-rubik-s-cube.png);
+}
+
+/*
+AFTER: É utilizado para inserir algum conteúdo depois do conteúdo de um elemento.
+*/
+
+p.p2::after{
+    content: url(https://cdn.ecvol.com/s/www.querocase.com.br/produtos/topsocket-bola-de-futebol/g/0.png?v=0);
+}
+
+/*
+SELECTION: É utilizado para estilizar o conteúdo selecionado pelo usuário. 
+*/
+
+h2::selection{
+    color: darkgoldenrod;
+}
