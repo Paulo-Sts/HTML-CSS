@@ -3,10 +3,10 @@
 </div>
 
 <div style="display:inline_block">
-    <img align="left" height="110" width="200" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="left" height="110" width="200" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 </div>
 
-# HTML5 e CSS3
+### HTML5 e CSS3
 Estudo sobre as tecnologias base para criação de páginas na web.
 
 <br>
