@@ -1,9 +1,0 @@
-/*
-O seletor de id define estilização css para selecionar um elemento html por meio do valor de seu atributo de id. 
-Cada id é único, dessa forma o seletor de id seleciona um único elemento.
-*/
-
-#titulo1{
-    color: crimson;
-    background-color: chartreuse;
-}

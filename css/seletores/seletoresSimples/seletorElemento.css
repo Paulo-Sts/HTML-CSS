@@ -1,8 +1,0 @@
-/*
-Seleciona elementos html por meio do nome do elemento. Se aplicado a um elemento definido mais de uma 
-vez no html, o css aplicará a estilização a todos os elementos que forem do tipo do seletor.
-*/
-
-h1{
-    color: #aaa8a5;
-}

@@ -1,9 +1,0 @@
-/*
-É usado selecionar vários elementos que possuam as mesmas definições de estilo, diminuindo o código. 
-Para agrupar elementos basta separa-los por vírgula.
-*/
-
-h1, p{
-    color: blue;
-    border: 10px solid yellow;
-}

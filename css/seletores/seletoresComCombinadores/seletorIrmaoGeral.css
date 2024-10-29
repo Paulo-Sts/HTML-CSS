@@ -1,8 +1,0 @@
-/*
-É um combinador de seletor que especifica a seleção de todos os elementos que são irmãos e vem
-após um elemento específico (no mesmo nível hierárquico).
-*/
-
-h1 ~ h1{
-    color: purple;
-}

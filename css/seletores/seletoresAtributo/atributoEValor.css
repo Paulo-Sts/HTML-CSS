@@ -1,7 +1,0 @@
-/*
-É utilizado para atribuir seleção a elementos html que tenham um atributo e um valor específico.
-*/
-
-h1[id="segundoTitulo"]{
-    background-color: aqua;
-}
